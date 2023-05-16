@@ -48,7 +48,7 @@ system("COLOR B0");
 //SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 188);
 //cout << "\a \n \n";
 cout << "*****************************************************************\n ";
-cout << "  Welcome to  SUFFA AIRLINE TICKET RESERVATION SYSTEM  \n";
+cout << "  Welcome to  KIET AIRLINE TICKET RESERVATION SYSTEM  \n";
 cout << "*****************************************************************\n\n";
 //SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 185);
 cout << "  This Program is Prepared By : \n \n";
